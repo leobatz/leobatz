@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Leonardo
 
-<!--
-**leobatz/leobatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | JavaScript & Node.js
 
-Here are some ideas to get you started:
+🇧🇷 Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build web applications and REST APIs using modern technologies such as JavaScript, Node.js, Express, React, MySQL, and Sequelize.
+
+Currently focused on improving my skills in full stack development, software engineering, databases, and backend architecture through personal projects and continuous learning.
+
+Passionate about technology, problem-solving, and creating practical solutions that deliver real value.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind" />
+  </a>
+</div>
+
+
+### Backend
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,sequelize,mysql,python" />
+  </a>
+</div>
+
+### DevOps & Tools
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,git,figma" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leobatz&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobatz&layout=compact&theme=tokyonight" />
+</p>
